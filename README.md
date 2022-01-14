@@ -27,6 +27,6 @@
 
 #### Curs 12
 
-[#### Curs 13](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2022-01-06.md)
+#### [Curs 13](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2022-01-06.md)
 
 #### Curs 14
