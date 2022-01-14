@@ -19,8 +19,11 @@
 
 #### [Curs 8](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-18.md)
 -[instructiuni decizionale](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-18.md#instructiuni-decizionale)
+
 -[instructiuni cu decizii multiple](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-18.md#instructiuni-cu-decizii-multiple)
+
 -[instructiuni repetitive](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-18.md#instructiuni-repetitive)
+
 -[tipul char](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-18.md#tipul-char)
 
 #### [Curs 9](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-12-02.md)
