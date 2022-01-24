@@ -12,15 +12,13 @@
 - 
 - macrocomenzi standard predefinite
 
-#### Curs 4
+#### [Curs 4](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-10-28.md)
 
-#### Curs 5
+#### [Curs 5](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-04.md)
 
-#### Curs 6
+#### [Curs 6](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-11.md)
 
-#### Curs 7
-
-#### [Curs 8](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-18.md)
+#### [Curs 7-8](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-18.md)
 -[instructiuni decizionale](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-18.md#instructiuni-decizionale)
 
 -[instructiuni cu decizii multiple](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-18.md#instructiuni-cu-decizii-multiple)
