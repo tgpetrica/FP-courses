@@ -77,4 +77,5 @@
 
 -surse programe C care lucreaza cu fisiere
 
-#### Curs 14
+#### [Curs 14](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2022-01-13.md)
+-functii cu lista variabila de argumente
