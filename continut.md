@@ -15,10 +15,23 @@
 -macrocomenzi standard predefinite
 
 #### [Curs 4](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-10-28.md)
+-macrocomenzi
+
+-precompilarea conditionata
+
+-elemente ale limbajului C: functia main
 
 #### [Curs 5](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-04.md)
+-tipuri numerice de date
 
 #### [Curs 6](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-11.md)
+-functie printf
+
+-descriptori de tip
+
+-functia scanf
+
+-fluxuri standard ale limbajului C
 
 #### [Curs 7-8](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-18.md)
 -[instructiuni decizionale](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-11-18.md#instructiuni-decizionale)
