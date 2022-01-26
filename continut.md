@@ -1,16 +1,18 @@
 ## Continut
 
-#### Curs 2
+#### [Curs 2](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-10-14.md)
 -fisiere sursa C
 
 -macrocomenzi
 
 -tipuri de date
 
-#### Curs 3
-- macrocomenzi
-- 
-- macrocomenzi standard predefinite
+#### [Curs 3](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-10-21.md)
+-macrocomenzi
+
+-operatorul ```##```
+
+-macrocomenzi standard predefinite
 
 #### [Curs 4](https://github.com/tgpetrica/FP-courses/blob/main/FP_22_C_2021-10-28.md)
 
